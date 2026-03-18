@@ -1,0 +1,45 @@
+campaign_name,channel,campaign_date,leads,mqls,sqls,customers,cost,revenue
+Webinar_ProductDemo_Jan,Webinar,2024-01-15,150,45,11,4,500.00,6000.00
+LinkedIn_Ads_Jan,Paid Social,2024-01-20,200,60,15,5,1200.00,7500.00
+Email_Newsletter_Jan,Email,2024-01-25,300,90,22,8,100.00,12000.00
+Content_SEO_Feb,Organic,2024-02-10,180,54,13,5,0.00,7500.00
+Google_PPC_Feb,Paid Search,2024-02-15,250,75,18,6,1500.00,9000.00
+Webinar_Training_Feb,Webinar,2024-02-20,175,52,13,5,600.00,7500.00
+Facebook_Ads_Mar,Paid Social,2024-03-05,220,66,16,6,1300.00,9000.00
+Blog_Content_Mar,Organic,2024-03-12,190,57,14,5,0.00,7500.00
+Email_Campaign_Mar,Email,2024-03-18,280,84,21,7,150.00,10500.00
+LinkedIn_Organic_Mar,Organic,2024-03-25,160,48,12,4,0.00,6000.00
+Google_PPC_Apr,Paid Search,2024-04-08,240,72,18,6,1400.00,9000.00
+Webinar_Feature_Apr,Webinar,2024-04-15,165,49,12,4,550.00,6000.00
+Instagram_Ads_Apr,Paid Social,2024-04-22,210,63,15,5,1100.00,7500.00
+Email_Newsletter_Apr,Email,2024-04-28,290,87,21,7,120.00,10500.00
+Content_SEO_May,Organic,2024-05-10,185,55,13,5,0.00,7500.00
+YouTube_Ads_May,Paid Video,2024-05-18,195,58,14,5,900.00,7500.00
+Webinar_Partner_May,Webinar,2024-05-25,180,54,13,5,580.00,7500.00
+LinkedIn_Ads_Jun,Paid Social,2024-06-05,230,69,17,6,1250.00,9000.00
+Email_Promo_Jun,Email,2024-06-12,310,93,23,8,130.00,12000.00
+Podcast_Sponsor_Jun,Podcast,2024-06-20,140,42,10,4,800.00,6000.00
+Google_PPC_Jul,Paid Search,2024-07-08,255,76,19,7,1450.00,10500.00
+Webinar_Industry_Jul,Webinar,2024-07-15,170,51,12,4,570.00,6000.00
+Twitter_Ads_Jul,Paid Social,2024-07-22,200,60,15,5,1050.00,7500.00
+Blog_Guest_Jul,Organic,2024-07-28,175,52,13,5,0.00,7500.00
+Email_Newsletter_Aug,Email,2024-08-10,295,88,22,8,125.00,12000.00
+Facebook_Retarget_Aug,Paid Social,2024-08-18,215,64,16,6,1150.00,9000.00
+Webinar_Training_Aug,Webinar,2024-08-25,185,55,13,5,590.00,7500.00
+LinkedIn_Organic_Sep,Organic,2024-09-05,165,49,12,4,0.00,6000.00
+Google_Display_Sep,Display Ads,2024-09-12,180,54,13,5,950.00,7500.00
+Email_Campaign_Sep,Email,2024-09-20,285,85,21,7,115.00,10500.00
+YouTube_Video_Sep,Paid Video,2024-09-25,190,57,14,5,880.00,7500.00
+Webinar_Product_Oct,Webinar,2024-10-10,175,52,13,5,600.00,7500.00
+LinkedIn_Ads_Oct,Paid Social,2024-10-18,225,67,16,6,1220.00,9000.00
+Email_Newsletter_Oct,Email,2024-10-25,305,91,22,8,135.00,12000.00
+Google_PPC_Nov,Paid Search,2024-11-08,260,78,19,7,1480.00,10500.00
+Webinar_Year_End_Nov,Webinar,2024-11-15,180,54,13,5,610.00,7500.00
+Instagram_Stories_Nov,Paid Social,2024-11-22,205,61,15,5,1080.00,7500.00
+Blog_Content_Nov,Organic,2024-11-28,170,51,12,4,0.00,6000.00
+Email_BlackFriday_Nov,Email,2024-11-29,320,96,24,8,140.00,12000.00
+Facebook_Ads_Dec,Paid Social,2024-12-05,235,70,17,6,1280.00,9000.00
+Webinar_Recap_Dec,Webinar,2024-12-12,185,55,13,5,590.00,7500.00
+LinkedIn_YearReview_Dec,Organic,2024-12-18,175,52,13,5,0.00,7500.00
+Email_Holiday_Dec,Email,2024-12-23,310,93,23,8,145.00,12000.00
+Google_Retarget_Dec,Paid Search,2024-12-28,245,73,18,6,1420.00,9000.00
