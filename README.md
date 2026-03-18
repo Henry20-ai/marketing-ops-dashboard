@@ -4,9 +4,8 @@
 
 Built an end-to-end marketing operations system demonstrating workflow automation, SQL data analysis, and business intelligence reporting for a SaaS marketing team.
 
-**Live Dashboard:** [View Power BI Dashboard](./dashboard/Marketing_Ops_Dashboard.pdf)
-
-![Dashboard Preview](./screenshots/dashboard_full.png)
+**Live Dashboard:** 
+![Dashboard Preview](./Screenshot 2026-03-18 235234.png)
 
 ---
 
