@@ -5,7 +5,9 @@
 Built an end-to-end marketing operations system demonstrating workflow automation, SQL data analysis, and business intelligence reporting for a SaaS marketing team.
 
 **Live Dashboard:** 
-![Dashboard Preview](./Screenshot 2026-03-18 235234.png)
+![Dashboard Preview](./marketing-ops-dashboard
+
+ /Full Dashboard.png)
 
 ---
 
@@ -90,7 +92,6 @@ GROUP BY channel
 ORDER BY net_profit DESC;
 ```
 
-![Channel Performance Results](./screenshots/sql_channel_performance.png)
 
 **Query 2: Monthly Funnel Conversion Rates**
 ```sql
@@ -136,8 +137,6 @@ ORDER BY roi_percentage DESC
 LIMIT 10;
 ```
 
-View all SQL queries: [marketing_analysis.sql](./sql/marketing_analysis.sql)
-
 ### 3. HubSpot Workflow Automation
 
 **Workflow 1: Lead Nurture Sequence**
@@ -148,7 +147,6 @@ View all SQL queries: [marketing_analysis.sql](./sql/marketing_analysis.sql)
   - Day 11: Create task for sales rep to follow up
 - **Result:** 80% reduction in manual follow-up tasks
 
-![Lead Nurture Workflow](./hubspot/Lead_Capture_Workflow.png)
 
 **Workflow 2: Lead Scoring System**
 - **Trigger:** Engagement score ≥ 50 points
@@ -161,8 +159,6 @@ View all SQL queries: [marketing_analysis.sql](./sql/marketing_analysis.sql)
   - Score 50-74: Set lead status to MQL
   - Score 75+: Set to MQL + auto-assign to sales rep
 - **Result:** Automated MQL qualification, saving 10+ hours/week
-
-![Lead Scoring Workflow](./hubspot/Lead_Scoring_Workflow.png)
 
 ### 4. Power BI Dashboard
 
@@ -183,42 +179,8 @@ View all SQL queries: [marketing_analysis.sql](./sql/marketing_analysis.sql)
 - Teal accent color for ROI to indicate efficiency
 - Navy headers for professional corporate aesthetic
 
-[View Full Dashboard](./dashboard/Marketing_Ops_Dashboard.pdf)
 
----
-
-## 📁 Repository Structure
-```
-marketing-ops-dashboard/
-│
-├── README.md                          # Project documentation
-│
-├── data/
-│   └── marketing_data.csv             # Sample marketing campaign data
-│
-├── sql/
-│   └── marketing_analysis.sql         # All 4 SQL analysis queries
-│
-├── hubspot/
-│   ├── Lead_Capture_Workflow.png      # Lead nurture automation
-│   └── Lead_Scoring_Workflow.png      # Lead scoring automation
-│
-├── dashboard/
-│   ├── Marketing_Ops_Dashboard.pbix   # Power BI dashboard file
-│   └── Marketing_Ops_Dashboard.pdf    # Exported PDF version
-│
-└── screenshots/
-    ├── dashboard_full.png             # Full dashboard view
-    ├── channel_performance.png        # Bar chart close-up
-    ├── sql_channel_performance.png    # SQL query 1 results
-    ├── sql_monthly_funnel.png         # SQL query 2 results
-    ├── sql_cost_per_customer.png      # SQL query 3 results
-    └── sql_top_campaigns.png          # SQL query 4 results
-```
-
----
-
-## 🚀 Technologies Used
+## Technologies Used
 
 - **Database:** PostgreSQL 17
 - **Business Intelligence:** Microsoft Power BI Desktop
@@ -228,7 +190,7 @@ marketing-ops-dashboard/
 
 ---
 
-## 💼 Business Impact
+## Business Impact
 
 This system would enable marketing teams to:
 - **Save 5+ hours/week** on manual reporting and data pulls
@@ -245,7 +207,7 @@ This system would enable marketing teams to:
 
 ---
 
-## 📝 How to Use This Repository
+## How to Use This Repository
 
 ### Prerequisites
 - PostgreSQL installed locally
@@ -300,14 +262,6 @@ psql marketing_ops -f sql/marketing_analysis.sql
 - Process automation & workflow design
 - Stakeholder reporting & data storytelling
 - Performance metric tracking
-
----
-
-## 📫 Contact
-
-**Henry Isaac Udochukwu**  
-Operations Analyst | HubSpot + SQL + Process Automation  
-📧 Henryisaccudo5000@gmail.com  
 
 ---
 
